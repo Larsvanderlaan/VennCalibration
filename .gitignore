@@ -1,0 +1,5 @@
+myenv2
+data_analysis
+data_analysis/*
+myenv2/*
+*.csv
